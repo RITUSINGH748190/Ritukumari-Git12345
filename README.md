@@ -1,2 +1,2 @@
-# Ritukumari-Git12345
+# FULL-STACK
 This is my project
